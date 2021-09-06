@@ -43,6 +43,3 @@ Indicates if water is safe for human consumption where 1 means Potable and 0 mea
 
 
 In this small project first, we analyze the dataset in the first step. Then we should clean the data to get better performance from our models. Subsequently, we create our models and we train the models over our dataset which is separated to train and test sections. Also, for SVC we tried to check the accuracy for different types of kernels. Finally, we build our KNN model.
-
-This data set is download from [Kaggle](https://www.kaggle.com/adityakadiwal/water-potability)
-
