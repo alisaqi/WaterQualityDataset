@@ -2,7 +2,7 @@
 KNN - Decision Tree - SVC - Random Forest
 
 
-Content
+
 The water_potability.csv file contains water quality metrics for 3276 different water bodies.
 
 1. pH value:
